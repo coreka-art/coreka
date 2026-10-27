@@ -1,0 +1,1 @@
+Para PC: extrae downloads/EL_HOMBRE_EXTRACTOR_ORDENADOR.zip y abre JUGAR.html. Para publicar: sube esta carpeta conservando sus subcarpetas. La entrada es index.html; usa HTTPS en movil.

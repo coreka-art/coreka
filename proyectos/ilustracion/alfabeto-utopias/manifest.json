@@ -1,0 +1,261 @@
+[
+  {
+    "key": "A",
+    "name": "Aerotrópolis",
+    "asset": "assets/A.png",
+    "tripo": true,
+    "video": "assets/tripo-A.mp4",
+    "reference": "assets/referencia-A.png",
+    "original_video": "A_tripo-showcase-884f87d1-f051-40b7-88b5-ba6d2f9d1087.mp4"
+  },
+  {
+    "key": "B",
+    "name": "Biópolis",
+    "asset": "assets/B.png",
+    "tripo": true,
+    "video": "assets/tripo-B.mp4",
+    "reference": "assets/referencia-B.png",
+    "original_video": "C_tripo-showcase-0c38d14f-33fe-443d-8bde-e41661a57a7a.mp4"
+  },
+  {
+    "key": "C",
+    "name": "Cápsula",
+    "asset": "assets/C.png",
+    "tripo": true,
+    "video": "assets/tripo-C.mp4",
+    "reference": "assets/referencia-C.png",
+    "original_video": "C_tripo-showcase-b4502945-d42e-484b-808a-d40a8676e7fb.mp4"
+  },
+  {
+    "key": "D",
+    "name": "Deltápolis",
+    "asset": "assets/D.png",
+    "tripo": true,
+    "video": "assets/tripo-D.mp4",
+    "reference": "assets/referencia-D.png",
+    "original_video": "D_tripo-showcase-7db618e4-7564-401b-9b8a-3114b3e4a0a2.mp4"
+  },
+  {
+    "key": "E",
+    "name": "Estratópolis",
+    "asset": "assets/E.png",
+    "tripo": false
+  },
+  {
+    "key": "F",
+    "name": "Fotópolis",
+    "asset": "assets/F.png",
+    "tripo": false
+  },
+  {
+    "key": "G",
+    "name": "Geópolis",
+    "asset": "assets/G.png",
+    "tripo": true,
+    "video": "assets/tripo-G.mp4",
+    "reference": "assets/referencia-G.png",
+    "original_video": "G_tripo-showcase-20780830-c12b-4e4d-ba25-e2b3b0dfab62.mp4"
+  },
+  {
+    "key": "H",
+    "name": "Heliópolis II",
+    "asset": "assets/H.png",
+    "tripo": false
+  },
+  {
+    "key": "I",
+    "name": "Isópolis",
+    "asset": "assets/I.png",
+    "tripo": false
+  },
+  {
+    "key": "J",
+    "name": "Jardinaria",
+    "asset": "assets/J.png",
+    "tripo": false
+  },
+  {
+    "key": "K",
+    "name": "Kinética",
+    "asset": "assets/K.png",
+    "tripo": false
+  },
+  {
+    "key": "L",
+    "name": "Luminaria",
+    "asset": "assets/L.png",
+    "tripo": false
+  },
+  {
+    "key": "M",
+    "name": "Metabolia",
+    "asset": "assets/M.png",
+    "tripo": false
+  },
+  {
+    "key": "N",
+    "name": "Nubaria",
+    "asset": "assets/N.png",
+    "tripo": false
+  },
+  {
+    "key": "O",
+    "name": "Orbitaria",
+    "asset": "assets/O.png",
+    "tripo": false
+  },
+  {
+    "key": "P",
+    "name": "Prospectiva",
+    "asset": "assets/P.png",
+    "tripo": false
+  },
+  {
+    "key": "Q",
+    "name": "Quadrantia",
+    "asset": "assets/Q.png",
+    "tripo": false
+  },
+  {
+    "key": "R",
+    "name": "Resonancia",
+    "asset": "assets/R.png",
+    "tripo": false
+  },
+  {
+    "key": "S",
+    "name": "Simbiópolis",
+    "asset": "assets/S.png",
+    "tripo": false
+  },
+  {
+    "key": "T",
+    "name": "Transitoria",
+    "asset": "assets/T.png",
+    "tripo": false
+  },
+  {
+    "key": "U",
+    "name": "Utopía",
+    "asset": "assets/U.png",
+    "tripo": false
+  },
+  {
+    "key": "V",
+    "name": "Verticalia",
+    "asset": "assets/V.png",
+    "tripo": false
+  },
+  {
+    "key": "W",
+    "name": "Wattsfield",
+    "asset": "assets/W.png",
+    "tripo": false
+  },
+  {
+    "key": "X",
+    "name": "Xenópolis",
+    "asset": "assets/X.png",
+    "tripo": false
+  },
+  {
+    "key": "Y",
+    "name": "Ypsilon",
+    "asset": "assets/Y.png",
+    "tripo": false
+  },
+  {
+    "key": "Z",
+    "name": "Zénit",
+    "asset": "assets/Z.png",
+    "tripo": false
+  },
+  {
+    "key": "0",
+    "name": "La Promesa",
+    "asset": "assets/numero1.png",
+    "tripo": false
+  },
+  {
+    "key": "1",
+    "name": "La Unidad",
+    "asset": "assets/numero2.png",
+    "tripo": false
+  },
+  {
+    "key": "2",
+    "name": "La Reconciliación",
+    "asset": "assets/numero-2.png",
+    "tripo": false
+  },
+  {
+    "key": "3",
+    "name": "Las tres dimensiones",
+    "asset": "assets/numeros-3-9.png",
+    "tripo": false,
+    "panel": [
+      0,
+      0
+    ]
+  },
+  {
+    "key": "4",
+    "name": "Las cuatro estaciones",
+    "asset": "assets/numeros-3-9.png",
+    "tripo": false,
+    "panel": [
+      1,
+      0
+    ]
+  },
+  {
+    "key": "5",
+    "name": "El tiempo liberado",
+    "asset": "assets/numeros-3-9.png",
+    "tripo": false,
+    "panel": [
+      2,
+      0
+    ]
+  },
+  {
+    "key": "6",
+    "name": "Seis sentidos",
+    "asset": "assets/numeros-3-9.png",
+    "tripo": false,
+    "panel": [
+      3,
+      0
+    ]
+  },
+  {
+    "key": "7",
+    "name": "Siete continentes unidos",
+    "asset": "assets/numeros-3-9.png",
+    "tripo": false,
+    "panel": [
+      0,
+      1
+    ]
+  },
+  {
+    "key": "8",
+    "name": "Ocho mil millones cuidados",
+    "asset": "assets/numeros-3-9.png",
+    "tripo": false,
+    "panel": [
+      1,
+      1
+    ]
+  },
+  {
+    "key": "9",
+    "name": "Nueve minutos de silencio",
+    "asset": "assets/numeros-3-9.png",
+    "tripo": false,
+    "panel": [
+      2,
+      1
+    ]
+  }
+]

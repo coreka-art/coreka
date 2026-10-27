@@ -1,0 +1,1 @@
+self.addEventListener('install',()=>self.skipWaiting());self.addEventListener('activate',e=>e.waitUntil((async()=>{for(const k of await caches.keys())if(k.startsWith('coreka-extractor-'))await caches.delete(k);await self.clients.claim();for(const c of await self.clients.matchAll({type:'window'}))if(new URL(c.url).pathname==='/')await c.navigate(c.url)})()));

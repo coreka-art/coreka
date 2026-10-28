@@ -16,5 +16,16 @@
     "Tripo D",
     "Tripo G"
   ],
-  "pdf": "COREKA_Portfolio_6_Proyectos.pdf"
+  "pdf": "COREKA_Portfolio_6_Proyectos.pdf",
+  "illustration_complete": "proyectos/ilustracion.html",
+  "presentation_order": [
+    "El hombre extractor",
+    "Ilustración original",
+    "Alfabeto de Utopías",
+    "El renacuajo paseador",
+    "Galanes de Noche",
+    "Cuerpo Travesía · Matadero",
+    "Tejiendo Raíces",
+    "Pintura"
+  ]
 }
